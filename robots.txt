@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://rocklinhvacco.com/sitemap.xml
